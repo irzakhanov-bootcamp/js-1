@@ -1,0 +1,22 @@
+let age = 28;
+const yearOfBirth = 1992;
+const dayOfBirth = 2;
+const numberOfBrothers = 1;
+const numberOfSisters = 2;
+let numberOfFamiliMembers = 6;
+let costOfTravel = 20;
+let thisYear = 2021;
+let usdToRub = 70;
+let eurToRub = 80;
+let btcToRub = 4000000;
+
+let myAge = thisYear - yearOfBirth;
+let newYearsOfBirth = thisYear - age;
+let childs = numberOfBrothers + numberOfSisters;
+let manyEur = eurToRub * 1000;
+let manyUsd = usdToRub * 2.5;
+let newBtc = btcToRub / 10000;
+let costOfRub = costOfTravel / usdToRub;
+let numberOfParent = usdToRub - numberOfBrothers - numberOfSisters;
+let value = 0 / age;
+let value2 = 35 / age;
